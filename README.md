@@ -20,7 +20,7 @@ Everything in the lab is **synthetic**: invented prices (in tenge), an invented 
 
 **No API key. No GPU. No cost.** The notebook needs numpy only, which Colab already has.
 
-**Due: Sunday 6 December 2026, 23:59 (Asia/Tashkent).** 15 points.
+**Due: Sunday 6 December 2026, 23:59 (Asia/Almaty).** 15 points.
 
 ## Setup
 
